@@ -1,0 +1,59 @@
+* {
+    margin: 0%;
+}
+
+body {
+    text-align: center;
+    background-color: gray;
+}
+
+h1{
+    color:aqua;
+    font-size: 6vh;
+    
+
+
+}
+
+label {
+    font-size: large;
+    
+
+}
+
+#bday-input {
+    display: block;
+    margin: auto;
+    width: 15rem;
+    height: 2rem;
+border: solid aqua;
+    text-align: center;
+    font-weight: medium;
+    font-size: larger;
+    margin-top: 1rem;
+}
+
+
+
+#show-btn {
+    margin: 2rem;
+    width: 8rem;
+    height: 4vh;
+    background-color: aqua;
+    color: gray;
+    font-weight: bolder;
+}
+
+#output {
+    font-size:larger;
+    color:aqua;
+}
+
+
+
+p{
+    color:#1e293b;
+    
+
+}
+
